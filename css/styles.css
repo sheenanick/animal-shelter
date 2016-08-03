@@ -1,0 +1,38 @@
+body {
+  background-color: #f2f2f2;
+  font-family: sans-serif;
+  display: block;
+  margin: auto;
+  width: 700px;
+}
+img {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: auto;
+}
+.columns {
+  float: left;
+  width: 300px;
+  height: 485px;
+  border: 1px dashed #000000;
+  margin: 1%;
+  padding: 1%;
+}
+h2 {
+  text-align: center;
+}
+.columns h3 {
+  text-align: center;
+  font-weight: lighter;
+}
+.columns li a {
+  text-decoration: none;
+  color: #0088cc;
+}
+a {
+  color: #ff4d4d;
+}
+p {
+  width: 665px;
+}
